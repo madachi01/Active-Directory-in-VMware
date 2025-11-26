@@ -9,21 +9,15 @@ Simulating an enterprise-grade network environent with a personal homelab, this 
 
 <img src="https://github.com/madachi01/Active-Directory-in-VMware/blob/main/Images/Setup_Preview.png?raw=true" width=75%>
 
----
-
 ## Table of Contents
 - [Overview](#overview)
 - [Network Design](#network-design)
 - [Core Features and Takeaways](#core-features-and-takeaways)
 - [Reflection](#reflection)
 
----
-
 ## Overview
 
 Developed to explore real-world systemsadministration in a flexible environment, this lab mirrors modern IT infrastructure. I configured a domain, managed Group Policy Objects (GPOs), automated tasks, and experimented with cross-OS compatability, file sharing, and integration tools like JAMF and Ansible.
-
----
 
 ## Network Design
 
@@ -36,8 +30,6 @@ The network connects three segments:
 
 Each segment has defined roles and protocols, simulating enterprise-grade segmentation for secure and efficient communication.
 
----
-
 ## Core Features and Takeaways
 
 - **VM Snapshots** - Instant recovery points for safe experimentation, allowing fast restoration from errors or failures.
@@ -48,8 +40,6 @@ Each segment has defined roles and protocols, simulating enterprise-grade segmen
 
 - **Hardware Efficiency** - A single host replaces multiple physical systems, maximizing flexibility while minimizing hardware requirements.
 <img src="https://cdn.prod.website-files.com/60494527fea68422687bfcf1/60620c3038c7591706fb8381_what-is-a-hypervisor-1024x695.png" width=65%>
-
----
 
 ## Reflection
 
